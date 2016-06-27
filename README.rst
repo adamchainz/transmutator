@@ -26,7 +26,7 @@ Framework
 Demo
 ****
 
-Check https://transmutator.readthedocs.org/en/latest/demo.html
+Check https://transmutator.readthedocs.io/en/latest/demo.html
 
 
 ******************
@@ -47,7 +47,7 @@ Help is welcome to implement a nice tool today, and to make it better tomorrow!
 Ressources
 **********
 
-* Documentation: https://transmutator.readthedocs.org
+* Documentation: https://transmutator.readthedocs.io
 * PyPI: https://pypi.python.org/pypi/transmutator
 * Code repository: https://github.com/benoitbryon/transmutator
 * Bugtracker: https://github.com/benoitbryon/transmutator/issues
